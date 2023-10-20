@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(48, 46, 46);
+    color: antiquewhite;
+}
+
+.app-title{
+    text-align: center;
+    color: beige;
+}
+
+.search-bar{
+    margin: 10px auto;
+    width: 50%;
+    padding: 10px;
+    display: block;
+    font-size: 20px;
+    border-radius: 50px;
+}
+.temprature-text{
+    text-align: center;
+    color: antiquewhite;
+}
+.msg-text{
+    text-align: center;
+}
